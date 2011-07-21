@@ -6,15 +6,18 @@ It uses the excellent [database-webos](https://github.com/onecrayon/database-web
 
 Aside from that, the code is MIT Licensed
 
-<iframe width="425" height="349" src="http://www.youtube.com/embed/-oln3hfGRNo?hl=en&fs=1" frameborder="0" allowfullscreen></iframe>
+## Check it out
 
-# Try it out
+You can watch a demo here: <http://www.youtube.com/watch?v=-oln3hfGRNo>
+
+
+## Try it out
 
 To give it a whirl, get the SDK from HP, then edit index.html so that enyo.js is pulling from the right location.  After that you can [load it up in Chrome](https://developer.palm.com/content/api/release-notes/3.0.0-643.html#documentation) and experience bliss.
 
 To put it on your TouchPad, get into [developer mode](http://www.velvetcache.org/2011/07/20/hp-touchpad-developer-mode) and then use <tt>palm-package</tt> to create and ipk, and <tt>palm-install</tt> to install it.
 
-# License
+## License
 
 	Copyright (c) 2011 John M. Hobbs
 
