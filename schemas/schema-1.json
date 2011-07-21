@@ -1,0 +1,16 @@
+[
+	{
+		"table": "tasks",
+		"columns": [
+			{ 
+				"column": "rowID",
+				"type": "INTEGER",
+				"constraints": ["PRIMARY KEY"]
+			},
+			{
+				"column": "task",
+				"type": "TEXT"
+			}
+		]
+	}
+]
