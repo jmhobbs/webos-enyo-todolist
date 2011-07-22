@@ -1,10 +1,11 @@
 {
 	"id": "org.velvetcache.todolist",
-		"version": "0.1.0",
+		"version": "0.1.1",
 		"vendor": "John Hobbs",
 		"type": "web",
 		"main": "index.html",
 		"title": "Todo List",
-		"uiRevision": "2"
+		"uiRevision": "2",
+		"icon": "asset/icon.png"
 }
 

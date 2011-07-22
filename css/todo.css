@@ -1,0 +1,14 @@
+#todo_scroller {
+	background-image: url( '../asset/wood.jpg' );
+}
+
+#todo_pageHeader {
+	background-image: url( '../asset/leather.jpg' );
+	-webkit-border-image: none; /* Remove the fade */
+	color: #FFF;
+}
+
+#todo_list_client_client {
+	color: #444;
+	background: #FFF;
+}
